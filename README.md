@@ -29,31 +29,31 @@
 - 📄 My Resume: [View Here](https://drive.google.com/file/d/1Fz477bMjS-1AI46KPSS0Jh1X4WZn0Nuy/view?usp=sharing)  
 
 ---
-
 ### 🌐 Connect with me  
 <p align="center">
 
-  <a href="https://twitter.com/_pawar_himanshu">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40"/>
-  </a>&nbsp;&nbsp;
+<a href="https://twitter.com/_pawar_himanshu">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>&nbsp;
 
-  <a href="https://linkedin.com/in/himanshu-pawar-476230218/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-  </a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/himanshu-pawar-476230218/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>&nbsp;
 
-  <a href="https://leetcode.com/u/pawarhimanshu22/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/>
-  </a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/pawarhimanshu22/">
+  <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+</a>&nbsp;
 
-  <a href="https://www.hackerrank.com/profile/himanshupawarof1">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40"/>
-  </a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/himanshupawarof1">
+  <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
+</a>&nbsp;
 
-  <a href="https://www.geeksforgeeks.org/user/himanshupawarqs98/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40"/>
-  </a>
+<a href="https://www.geeksforgeeks.org/user/himanshupawarqs98/">
+  <img src="https://skillicons.dev/icons?i=gfg" height="40"/>
+</a>
 
 </p>
+
 
 
 
