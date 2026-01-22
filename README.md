@@ -34,23 +34,23 @@
 <p align="center">
 
   <a href="https://twitter.com/_pawar_himanshu">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="40" alt="Twitter"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/himanshu-pawar-476230218/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/pawarhimanshu22/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" height="40" alt="LeetCode"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/profile/himanshupawarof1">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HackerRank_logo.png" height="40" alt="HackerRank"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://www.geeksforgeeks.org/user/himanshupawarqs98/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" alt="GeeksforGeeks"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40"/>
   </a>
 
 </p>
